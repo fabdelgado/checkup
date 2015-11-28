@@ -141,7 +141,7 @@ nav ul {
 
 .navbar-brand
 {
-  margin-top: -4%;
+  margin-top: -7%;
 }
 .cover
 {
@@ -167,6 +167,12 @@ background-size: 100%;
    border-color: transparent;
 }
 
+.navbar a:hover {
+    background-color: transparent;
+    background: transparent;
+    font-weight: 600;
+    height: 100%;
+}
 
 .navbar a
 {
@@ -252,7 +258,7 @@ margin-top: 2%;
 .shrink
 {
   background-color: #000000;
-  height: 10%;
+  height: 7%;
 }
 
 .module_left
