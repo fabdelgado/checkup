@@ -141,7 +141,7 @@ nav ul {
 
 .navbar-brand
 {
-  margin-top: -7%;
+  margin-top: -4%;
 }
 .cover
 {
@@ -175,10 +175,10 @@ font-weight:600;
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
-  text-decoration: none;
-  background-color: transparent;
+    text-decoration: none;
+    background-color: #eee;
+    height: 100%;
 }
-
 
 .container-text
 {
