@@ -239,6 +239,7 @@ margin-top: 2%;
 .jumbotron
 {
   padding-bottom: 0px;
+  margin-bottom: 0px !important;
 }
 
 .cover-help a
